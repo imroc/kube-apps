@@ -1,0 +1,14 @@
+{
+    "registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:20191127-r2": "imroc.tencentcloudcr.com/gitlab/alpine-certificates:20191127-r2",
+    "registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:1.2": "imroc.tencentcloudcr.com/gitlab/cfssl-self-sign:1.2",
+    "registry.gitlab.com/gitlab-org/build/cng/kubectl:1.13.12": "imroc.tencentcloudcr.com/gitlab/kubectl:1.13.12",
+    "registry.gitlab.com/gitlab-org/build/cng/gitlab-container-registry:v2.12.0-gitlab": "imroc.tencentcloudcr.com/gitlab/gitlab-container-registry:v2.12.0-gitlab",
+    "registry.gitlab.com/gitlab-org/build/cng/gitlab-exporter:v7.1.2": "imroc.tencentcloudcr.com/gitlab/gitlab-exporter:7.1.2",
+    "registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v13.14.0": "imroc.tencentcloudcr.com/gitlab/gitlab-shell:v13.14.0",
+
+    "registry.gitlab.com/gitlab-org/build/cng/gitaly:v13.7.1": "imroc.tencentcloudcr.com/gitlab/gitaly:v13.7.1",
+    "registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v13.7.1": "imroc.tencentcloudcr.com/gitlab/gitlab-task-runner-ce:v13.7.1",
+    "registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v13.7.1": "imroc.tencentcloudcr.com/gitlab/gitlab-webservice-ce:v13.7.1",
+    "registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v13.7.1": "imroc.tencentcloudcr.com/gitlab/gitlab-workhorse-ce:v13.7.1",
+    "registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v13.7.1": "imroc.tencentcloudcr.com/gitlab/gitlab-sidekiq-ce:v13.7.1"
+}
