@@ -1,0 +1,12 @@
+installCRDs: true
+image:
+  repository: imroc.tencentcloudcr.com/mirrors/cert-manager-controller
+  tag: v1.1.0
+cainjector:
+  image:
+    repository: imroc.tencentcloudcr.com/mirrors/cert-manager-cainjector
+    tag: v1.1.0
+webhook:
+  image:
+    repository: imroc.tencentcloudcr.com/mirrors/cert-manager-webhook
+    tag: v1.1.0
